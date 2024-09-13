@@ -2,6 +2,8 @@
 
 (name struct-diff)
 
+(generate_opam_files true)
+
 (license ISC)
 (authors "Nathan Rebours <nathan.p.rebours@gmail.com>")
 (maintainers "Nathan Rebours <nathan.p.rebours@gmail.com>")

@@ -1,0 +1,3 @@
+(library
+ (name struct_diff)
+ (public_name struct-diff))
